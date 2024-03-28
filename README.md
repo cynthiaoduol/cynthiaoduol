@@ -1,4 +1,4 @@
-# Hi there 👋!
+# Hi there 👋
 
 ## Introduction:
 Greetings! I'm **Cynthia Oduol**. As a dedicated and versatile full-stack developer, I bring a wealth of expertise in both front-end
