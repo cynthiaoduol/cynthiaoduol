@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Introduction:
-Greetings! I'm **Cynthia Oduol**. As a dedicated and versatile full-stack developer, I bring a wealth of expertise in both front-end
+Greetings! I'm [**Cynthia Oduol**](https://oduolcynthia.vercel.app/). As a dedicated and versatile full-stack developer, I bring a wealth of expertise in both front-end
 and back-end web development to deliver exceptional user experiences.Additionally, I am deeply committed to guiding and mentoring aspiring developers in their journey to becoming proficient in software development.
 
 
