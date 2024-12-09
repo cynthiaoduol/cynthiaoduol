@@ -33,7 +33,7 @@ Here are some resources I highly recommend for both full-stack development and m
 - [Codecademy](https://www.codecademy.com/)
 
 ## Communication Channels:
-Feel free to reach out to me via email at [cynthiaobu940@gmail.com](mailto:cynthiaobu940@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/cynthiaoduol/). I'm also available for mentorship sessions via Zoom or Slack, or you can schedule a meeting with me [here](https://calendly.com/oduolcynthia).
+Feel free to reach out to me via email at [cynthiaobu940@gmail.com](mailto:cynthiaobu940@gmail.com) or [cynthiaoduol0@gmail.com](mailto:cynthiaoduol0@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/cynthiaoduol/). I'm also available for mentorship sessions via Zoom or Slack, or you can schedule a meeting with me [here](https://calendly.com/oduolcynthia).
 
 ## Expectations:
 I expect mentees demonstrate a commitment to learning and growth, along with a willingness to actively engage in the mentoring process. Regular communication and feedback are essential for maximizing our collaboration and achieving your development goals. In return, I will provide constructive feedback, resources, and support tailored to your goals.
